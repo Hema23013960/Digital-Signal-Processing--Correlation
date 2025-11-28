@@ -58,7 +58,8 @@ ylabel('Amplitude')
 title(' Discrete cross correlated waveform')        
 
 ## OUTPUT:
-![Uploading WhatsApp Image 2025-10-15 at 13.53.51_58298e3d.jpg…]()
+![WhatsApp Image 2025-10-15 at 13 53 51_210bfd41](https://github.com/user-attachments/assets/6869c185-acec-4741-b6a9-acb9a74df978)
+
 
 
 ## RESULT:
